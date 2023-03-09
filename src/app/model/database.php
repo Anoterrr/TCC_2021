@@ -1,10 +1,10 @@
 <?php
 
 class Database {
-      private $dbname = "carteira_vacina";
-      private $host = "localhost";
-      private $user = "root";
-      private $password = "Mariana271117";
+      private $dbname = "";
+      private $host = "";
+      private $user = "";
+      private $password = "";
       private $conn = null;
 
       private $erroSql;
